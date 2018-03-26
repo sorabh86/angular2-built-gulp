@@ -15,4 +15,4 @@ This repository has branches for each of the videos in the course. You can use t
 5. Run the Gulp command `> gulp`
 6. Fire up your browser at `http://localhost:8080`
 
-
+.
